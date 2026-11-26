@@ -235,7 +235,7 @@ def graph_for(page: PageSEO) -> dict[str, Any]:
             "name": "Field Shift",
             "url": f"{SITE_URL}/",
             "logo": {"@type": "ImageObject", "url": asset_url("icon-512.png")},
-            "sameAs": ["https://github.com/0xUkobong/fieldshift"],
+            "sameAs": ["https://github.com/xukobong/fieldshift"],
         },
         _software_application(),
         {

@@ -175,7 +175,7 @@ SITE_URL = os.environ.get(
 ).rstrip("/")
 FIELDSHIFT_APP_BASE_PATH = os.environ.get("FIELDSHIFT_APP_BASE_PATH", "").strip("/")
 GITHUB_RAW_STATIC = (
-    "https://raw.githubusercontent.com/0xUkobong/fieldshift/main/static"
+    "https://raw.githubusercontent.com/xukobong/fieldshift/main/static"
 )
 ROOT_DIR = Path(__file__).resolve().parent.parent
 STATIC_DIR = ROOT_DIR / "static"
